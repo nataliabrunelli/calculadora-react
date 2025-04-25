@@ -16,5 +16,10 @@ Ele foi codificado a partir das aulas da Formação React Developer da DIO.
 
 1. Clone o repositório para sua máquina;
 2. Abra-o e instale suas dependências com `npm install`;
-3. Inicialize o servidor de desenvolvimento com `npm run dev`
+3. Inicialize o servidor de desenvolvimento com `npm run dev`;
 4. Acesse o projeto no navegador através do link gerado pelo servidor local.
+
+
+## Deploy: 
+
+Para acessar o projeto finalizado no navegador, clique [aqui](https://nataliabrunelli.github.io/calculadora-react/).
